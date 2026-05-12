@@ -1,9 +1,17 @@
-# Customer Segmentation Dashboard
+<img width="872" height="913" alt="image" src="https://github.com/user-attachments/assets/8fd40591-6cbb-4cde-a242-a634b80adcc2" /># Customer Segmentation Dashboard
+
+## Customer Segmentation & RFM Analysis
+
 
 ## Project Overview
-This Power BI dashboard analyzes customer behavior using segmentation techniques based on purchasing patterns.
+This SQL + Power BI project analyzes customer behavior using RFM (Recency, Frequency, Monetary)
+segmentation techniques. The project identifies loyal, high-value, at-risk, and inactive customers
+to generate business insights and support data-driven decision-making.
+
 
 ## Tools Used
+- SQL
+- PostgreSQL
 - Power BI
 - Excel
 - Data Cleaning
